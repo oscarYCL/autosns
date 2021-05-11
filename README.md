@@ -1,4 +1,4 @@
-# Autosns
+# autosns
 Automatic Create AWS SNS Topic &amp; subscription
 ## Demo Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/yOisgvzDVoY/0.jpg)](http://www.youtube.com/watch?v=yOisgvzDVoY)
