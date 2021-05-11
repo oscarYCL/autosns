@@ -12,7 +12,7 @@ $linux
  pip install -r requirements.txt
 ```
 ## config on access.py
-### input your aws ac access key & secret access key![image](https://user-images.githubusercontent.com/61004532/117772790-227fa400-b26a-11eb-96e2-0b35087bf8a7.png)
+#### input your aws ac access key & secret access key![image](https://user-images.githubusercontent.com/61004532/117772790-227fa400-b26a-11eb-96e2-0b35087bf8a7.png)
 
 
 ## Run
