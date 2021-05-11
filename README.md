@@ -6,7 +6,7 @@ Automatic Create AWS SNS Topic &amp; subscription
 ```bash
 $linux
  git clone https://github.com/oscarYCL/autosms.git
- cd autosms
+ cd autosns
  python3 -m venv venv
  . venv/bin/activate
  pip install -r requirements.txt
