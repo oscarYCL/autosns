@@ -17,5 +17,5 @@ $linux
 
 ## Run
 ```bash
- python3 autosub.py
+ python3 main.py
 ```
